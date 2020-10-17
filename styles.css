@@ -1,0 +1,57 @@
+.sampleone{
+    display:flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.sampletwo{
+    display:flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.sameplethree{
+   display:flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+h2{
+    border: solid black 5px;
+    padding: 10px; 
+    color:black;
+    font-weight: bold;
+    font-family: Impact, Charcoal, sans-serif;
+    background: #f5cac3;
+}
+
+.item1{
+    border: solid black 5px;
+    padding: 10px; 
+    color:black;
+    font-style: italic;
+    font-family: "Lucida Console", Courier, monospace;
+    background: #f6bd60; 
+}
+
+.item2{
+    border: solid black 5px;
+    padding: 10px; 
+    color:black;
+    font-style: italic;
+    font-family: "Lucida Console", Courier, monospace;
+    background: #84a59d; 
+}
+
+.item3{
+    border: solid black 5px;
+    padding: 10px; 
+    color:black;
+    font-style: italic;
+    font-family: "Lucida Console", Courier, monospace;
+    background: #f28482;
+}
+
+body {
+  background-color: #f7ede2;
+}
